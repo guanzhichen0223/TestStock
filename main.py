@@ -50,4 +50,4 @@ while len(data) < n_days:
 
     # 減一天
     date -= datetime.timedelta(days=1)
-    time.sleep(7)
+    time.sleep(5)
